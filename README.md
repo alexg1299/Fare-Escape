@@ -158,3 +158,5 @@ The level starts easy with only the wall and pepper objects. At level 2 the prev
 -----------------------------------------------------------------------------------
 Images
 -----------------------------------------------------------------------------------
+![MainMenu](https://github.com/alexg1299/Fare-Escape/blob/master/Images/Main%20Menu.png)
+![Play]https://github.com/alexg1299/Fare-Escape/blob/master/Images/Play.png)
