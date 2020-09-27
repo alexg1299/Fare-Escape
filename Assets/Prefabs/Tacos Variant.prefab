@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!65 &4144287151268069352
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6277157588905595313}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.17738222, y: 0.030640105, z: 0.091138765}
+  m_Center: {x: 0.0000000037252903, y: 0.0000000060535976, z: 9.3132146e-10}
+--- !u!1001 &6277872817940010167
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1000011323704582, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_Name
+      value: Tacos Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000011323704582, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_TagString
+      value: Taco
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.00043211054
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.7812594
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.62239045
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.04757829
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -76.521
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 198.739
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -14.891
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 24.969257
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 10.463755
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000012284530990, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 10.576364
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+--- !u!1 &6277157588905595313 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1000011323704582, guid: 927b358a489fa874780f1278268d7bfb, type: 3}
+  m_PrefabInstance: {fileID: 6277872817940010167}
+  m_PrefabAsset: {fileID: 0}
