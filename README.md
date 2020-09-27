@@ -5,28 +5,12 @@ An endless runner game similar to Temple Run.
 Assignment 1: Endless Runner - Temple Run-Like Game README
 -----------------------------------------------------------------------------------
 Student Name: Alexandra Garcia
-Student abc123: kgd962
-
-
------------------------------------------------------------------------------------
-Links to Project (if you used Google Drive, OneDrive, or Dropbox for submission)
------------------------------------------------------------------------------------
-Please provide your Google Drive, OneDrive, or Dropbox link here if you used it for 
-your submission, otherwise you may skip this section if you just submitted your
-assignment on Blackboard (zipped up). (Make sure the link does not expire and the 
-link permissions allow us to download, otherwise you may receive a grade of 0 on 
-your assignment submission if we cannot download it.)
-
-Place this Link to Your Unity Project Here:
-
-N/A
 
 -----------------------------------------------------------------------------------
 Version of Unity You Used for Your Game
 -----------------------------------------------------------------------------------
 Please write down the version of Unity you used when making your game here (e.g.
 2019.4, 2020.1, 2020.2, etc...): 2020.1.2f1
-
 
 -----------------------------------------------------------------------------------
 Game Controls 
@@ -40,7 +24,6 @@ A or ←: move left
 D or →: move right
 S or ↓: reach ground faster when in the air
 P: pause
-
 
 -----------------------------------------------------------------------------------
 Assets Downloaded for Game
@@ -168,11 +151,10 @@ things. e.g. Which script did you write that implements this? (Mention whether
 this script was attached to any game object and which ones.)
 
 The platform generator script create the objects at different xyz positions. Based on the level number more objects will be generated. Level 1+ pepper and wall. Level 2+ taco and drink. Level 3+ Avocado and cop. The platform generator and game controller are attached to the game controller object.
------------------------------------------------------------------------------------
-Any Notes or Things the Professor or TA/Grader Should Be Aware Of
------------------------------------------------------------------------------------
-If there are any other concerns that you have about your submission or any known
-bugs/glitches in your game that could potentially come up, please explain them here:
 
 The level starts easy with only the wall and pepper objects. At level 2 the previous objects along with the taco and the drink are added. At level 3 the previous objects and the cop and avocado objects are added. The number of objects are random so some platforms may have many objects and some may have none.
 
+
+-----------------------------------------------------------------------------------
+Images
+-----------------------------------------------------------------------------------
